@@ -1,0 +1,18 @@
+{
+  "manifest_id": "manifest-eq-1786465255845",
+  "dataset_name": "usgs_earthquakes_normalized_v1",
+  "source_url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minmagnitude=5.5&limit=100",
+  "retrieved_at": "2026-08-11T16:20:55.845Z",
+  "processing_version": "1.1.0-data-engine",
+  "record_count": 47,
+  "valid_count": 47,
+  "invalid_count": 0,
+  "duplicate_count": 0,
+  "missing_value_summary": {
+    "depth_km": 0,
+    "magnitude": 0,
+    "focal_mechanism": 47,
+    "usgs_url": 0
+  },
+  "checksum": "sha256-00000a2a3580"
+}

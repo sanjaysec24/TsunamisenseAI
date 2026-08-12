@@ -1,0 +1,39 @@
+{
+  "report_id": "report-eq-1786465255850",
+  "dataset_name": "USGS Earthquakes Live Feed",
+  "generated_at": "2026-08-11T16:20:55.850Z",
+  "total_records": 47,
+  "valid_records": 47,
+  "invalid_records": 0,
+  "duplicate_records": 0,
+  "source_coverage": "USGS Global FDSN Event Web Service",
+  "earliest_timestamp": "2026-07-13T08:53:27.219Z",
+  "latest_timestamp": "2026-08-10T12:34:28.125Z",
+  "magnitude_range": {
+    "min": 5.5,
+    "max": 7.4
+  },
+  "depth_range": {
+    "min": 9,
+    "max": 575.883
+  },
+  "missing_values": {
+    "depth_km": {
+      "count": 0,
+      "percentage": 0
+    },
+    "magnitude": {
+      "count": 0,
+      "percentage": 0
+    },
+    "focal_mechanism": {
+      "count": 47,
+      "percentage": 100
+    },
+    "usgs_url": {
+      "count": 0,
+      "percentage": 0
+    }
+  },
+  "validation_errors": []
+}

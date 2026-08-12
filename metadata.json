@@ -1,0 +1,6 @@
+{
+  "name": "TsunamiSense AI",
+  "description": "Intelligent Tsunami Risk Detection & Early-Warning Decision Support - Research and Decision Support Prototype for IBM Datathon",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

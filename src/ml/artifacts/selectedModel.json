@@ -1,0 +1,173 @@
+{
+  "model_version": "v1.1-mvp",
+  "trained_at": "2026-08-11T16:24:32.948Z",
+  "selected_model_name": "Logistic Regression",
+  "dataset_metadata": {
+    "total_records": 32,
+    "tsunamigenic_records": 16,
+    "non_tsunamigenic_records": 16,
+    "sources_used": [
+      "USGS FDSN GeoJSON API",
+      "NOAA/NCEI Global Historical Tsunami Database",
+      "USGS Historical Earthquake Catalog"
+    ]
+  },
+  "feature_keys": [
+    "magnitude",
+    "depth_km",
+    "latitude",
+    "longitude",
+    "distance_to_trench_km",
+    "is_subduction_zone",
+    "is_offshore",
+    "historical_tsunami_density",
+    "energy_depth_ratio"
+  ],
+  "scaler_params": {
+    "means": {
+      "magnitude": 7.558333333333334,
+      "depth_km": 43.01666666666667,
+      "latitude": 12.81225,
+      "longitude": 19.847333333333335,
+      "distance_to_trench_km": 1988.4583333333333,
+      "is_subduction_zone": 0.25,
+      "is_offshore": 0.25,
+      "historical_tsunami_density": 0.75,
+      "energy_depth_ratio": 2.5423750000000003
+    },
+    "stds": {
+      "magnitude": 0.7023274798047482,
+      "depth_km": 116.54821486787728,
+      "latitude": 29.534364759900182,
+      "longitude": 110.34091462586406,
+      "distance_to_trench_km": 2319.6051422093133,
+      "is_subduction_zone": 0.4330127018922193,
+      "is_offshore": 0.4330127018922193,
+      "historical_tsunami_density": 1.0103629710818451,
+      "energy_depth_ratio": 0.3634912668024731
+    }
+  },
+  "weights": {
+    "magnitude": 1.2122,
+    "depth_km": -0.6743,
+    "latitude": -1.1801,
+    "longitude": 0.1397,
+    "distance_to_trench_km": -0.3727,
+    "is_subduction_zone": 0.435,
+    "is_offshore": 0.435,
+    "historical_tsunami_density": 1.5295,
+    "energy_depth_ratio": 0.0922
+  },
+  "bias": 0.4121687403336655,
+  "evaluation_metrics": {
+    "confusion_matrix": {
+      "tp": 4,
+      "fp": 0,
+      "tn": 4,
+      "fn": 0
+    },
+    "precision": 1,
+    "recall": 1,
+    "f1_score": 1,
+    "roc_auc": 0.875,
+    "pr_auc": 1,
+    "total_samples": 8,
+    "train_samples": 24,
+    "test_samples": 8
+  },
+  "all_model_comparisons": [
+    {
+      "model_name": "Logistic Regression",
+      "metrics": {
+        "confusion_matrix": {
+          "tp": 4,
+          "fp": 0,
+          "tn": 4,
+          "fn": 0
+        },
+        "precision": 1,
+        "recall": 1,
+        "f1_score": 1,
+        "roc_auc": 0.875,
+        "pr_auc": 1,
+        "total_samples": 8,
+        "train_samples": 24,
+        "test_samples": 8
+      },
+      "is_selected": true,
+      "feature_importances": {
+        "magnitude": 1.2122,
+        "depth_km": -0.6743,
+        "latitude": -1.1801,
+        "longitude": 0.1397,
+        "distance_to_trench_km": -0.3727,
+        "is_subduction_zone": 0.435,
+        "is_offshore": 0.435,
+        "historical_tsunami_density": 1.5295,
+        "energy_depth_ratio": 0.0922
+      }
+    },
+    {
+      "model_name": "Random Forest",
+      "metrics": {
+        "confusion_matrix": {
+          "tp": 4,
+          "fp": 0,
+          "tn": 4,
+          "fn": 0
+        },
+        "precision": 1,
+        "recall": 1,
+        "f1_score": 1,
+        "roc_auc": 0.875,
+        "pr_auc": 1,
+        "total_samples": 8,
+        "train_samples": 24,
+        "test_samples": 8
+      },
+      "is_selected": false,
+      "feature_importances": {
+        "magnitude": 0.175,
+        "depth_km": 0.14,
+        "latitude": 0.07,
+        "longitude": 0.175,
+        "distance_to_trench_km": 0.14,
+        "is_subduction_zone": 0.018,
+        "is_offshore": 0,
+        "historical_tsunami_density": 0.281,
+        "energy_depth_ratio": 0
+      }
+    },
+    {
+      "model_name": "Gradient Boosting",
+      "metrics": {
+        "confusion_matrix": {
+          "tp": 4,
+          "fp": 4,
+          "tn": 0,
+          "fn": 0
+        },
+        "precision": 0.5,
+        "recall": 1,
+        "f1_score": 0.667,
+        "roc_auc": 0.875,
+        "pr_auc": 1,
+        "total_samples": 8,
+        "train_samples": 24,
+        "test_samples": 8
+      },
+      "is_selected": false,
+      "feature_importances": {
+        "magnitude": 0,
+        "depth_km": 0,
+        "latitude": 0,
+        "longitude": 0,
+        "distance_to_trench_km": 0,
+        "is_subduction_zone": 0,
+        "is_offshore": 0,
+        "historical_tsunami_density": 0,
+        "energy_depth_ratio": 0
+      }
+    }
+  ]
+}

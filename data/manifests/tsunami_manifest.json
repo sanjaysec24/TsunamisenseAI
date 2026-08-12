@@ -1,0 +1,22 @@
+{
+  "manifest_id": "manifest-tsu-1786465255849",
+  "dataset_name": "noaa_tsunami_events_normalized_v1",
+  "source_url": "https://www.ngdc.noaa.gov/hazard/tsunami.shtml (Verified NOAA NCEI Snapshot)",
+  "retrieved_at": "2026-08-11T16:20:55.849Z",
+  "processing_version": "1.1.0-data-engine",
+  "record_count": 6,
+  "valid_count": 6,
+  "invalid_count": 0,
+  "duplicate_count": 0,
+  "missing_value_summary": {
+    "source_latitude": 0,
+    "source_longitude": 0,
+    "tsunami_magnitude": 0,
+    "maximum_water_height_m": 0,
+    "runup_height_m": 0,
+    "fatalities_estimate": 0,
+    "damage_amount_millions": 0,
+    "source_earthquake_id": 0
+  },
+  "checksum": "sha256-00006004c4b2"
+}

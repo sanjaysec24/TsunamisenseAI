@@ -1,0 +1,472 @@
+[
+  {
+    "earthquake_id": "us6000tjl2",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tjjj",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tjaj",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tj8t",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "aka2026powmkf",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tif5",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000ti8i",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000ti6x",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000ti49",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000thl3",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000thej",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000thdk",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000th4k",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000th1h",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgvz",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tguf",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgud",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgbm",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgb9",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgau",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tgae",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tga9",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us6000tga6",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t3fm",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t387",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t37a",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t34g",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t2w3",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t25y",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t21z",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1w2",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t213",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1tp",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1q7",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1ng",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1n5",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1cc",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t1bu",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0xb",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0x0",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0u6",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0ng",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0hk",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0d0",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t0a3",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000t01n",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  },
+  {
+    "earthquake_id": "us7000szzy",
+    "tsunami_event_id": null,
+    "association_method": "UNASSOCIATED",
+    "association_confidence": 0,
+    "time_difference_minutes": null,
+    "distance_km": null,
+    "association_notes": "No matching tsunamigenic observation within 200km / 180min spatiotemporal threshold.",
+    "associated_at": "2026-08-11T16:20:55.844Z"
+  }
+]
